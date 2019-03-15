@@ -13,3 +13,4 @@ Project is created with:
 * SASS/SCSS
 * npm
 * Avocode
+* Git
